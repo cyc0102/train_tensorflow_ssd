@@ -2,7 +2,7 @@ import os
 import random
 
 trainval_percent = 0.9  # 10% for test 90% fro train and validate
-train_percent = 1.0     # 100% for train 0 % for validate
+train_percent = 0.9     # 90% for train 10 % for validate
 xmlfilepath = 'Annotations'
 txtsavepath = 'ImageSets\Main'
 total_xml = os.listdir(xmlfilepath)
