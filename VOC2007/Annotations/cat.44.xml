@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>cat.44.jpg</filename>
+	<path>D:\python\train_keras_yolov3\labelImg-master\VOC2007\JPEGImages\cat.44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>107</width>
+		<height>102</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>21</ymin>
+			<xmax>88</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>

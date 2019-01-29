@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>0007.jpg</filename>
+	<path>D:\python\labelImg-master\VOC2007\JPEGImages\0007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1067</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>panda</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>51</ymin>
+			<xmax>1439</xmax>
+			<ymax>1067</ymax>
+		</bndbox>
+	</object>
+</annotation>
